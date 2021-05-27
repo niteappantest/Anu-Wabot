@@ -24,7 +24,7 @@ Fixed Yt search
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git
-$ git clone https://github.com/Zobin33/Zbin-Wabot
+$ git clone https://github.com/niteappantest/Anu-Wabot
 $ cd Zbin-Wabot
 $ bash install.sh
 
@@ -35,7 +35,7 @@ Scan QR
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git nodejs libwebp ffmpeg wget tesseract toilet
-$ git clone https://github.com/Zobin33/Zbin-Wabot
+$ git clone https://github.com/niteappantest/Anu-Wabot
 $ cd Zbin-Wabot
 $ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 $ npm i -g
@@ -47,7 +47,7 @@ $ npm i -g
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/Zobin33/Zbin-Wabot
+> git clone https://github.com/niteappantest/Anu-Wabot
 > cd Zbin-Wabot
 > wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 > npm i -g
