@@ -61,15 +61,15 @@ $ bash run.sh
 
 # What You Need To Edit
  
-Owner Number At [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line 191
+Owner Number At [`Main.js`](https://github.com/niteappantest/Anu-Wabot/blob/main/main.js) Line 191
 
-Prefix In [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Line 97 Support Emot And Kata
+Prefix In [`Main.js`](https://github.com/niteappantest/Anu-Wabot/blob/main/main.js) Line|Line 97 Support Emot And Kata
 
-mess [`Di Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Line 210
+mess [`Di Main.js`](https://github.com/niteappantest/Anu-Wabot/blob/main/main.js) Line|Line 210
 
-Help On [`Help.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/src/help.js)
+Help On [`Help.js`](https://github.com/niteappantest/Anu-Wabot/blob/main/src/help.js)
 
-botname at [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Line 98
+botname at [`Main.js`](https://github.com/niteappantest/Anu-Wabot/blob/main/main.js) Line|Line 98
 
 ## Thanks To
 
