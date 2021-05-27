@@ -59,7 +59,7 @@ $ cd Zbin-Wabot
 $ bash run.sh
 ```
 
-# Yang Perlu Di Edit
+# What You Need To Edit
  
 Owner Number Di [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line 191
 
