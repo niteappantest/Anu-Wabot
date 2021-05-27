@@ -1,10 +1,10 @@
 # Zbin-Wabot
 
-Bot Biasa Dengan Base Mhankbarbar Dan Saya Modif Agar Sesuai Selera Saya Pribadi
+Ordinary Bot With Mhankbarbar Base And I Modify It To Fit My Personal Taste
 
-Untuk Sc Nya Saya Menyediakan Fitur Yaa Biasa Biasa Aja Cuma Ada Beberapa Command Yang Saya Scrap Sendiri Agar Tidak Bergantung Api Alias Ada Beberapa Fitur Tidak Menggunakan Api
+For Sc, I provide the usual features, but there are a few commands that I scrap myself so that they don't depend on Api, aka some features that don't use api
 
-Bot Ini Juga Bisa Menggunakan Api Seperti Bot Lain Nya
+This Bot Can Also Use Fire Like Other Bots
 
 ## Update News
 
@@ -61,15 +61,15 @@ $ bash run.sh
 
 # What You Need To Edit
  
-Owner Number Di [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line 191
+Owner Number At [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line 191
 
-Prefix Di [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Baris 97 Support Emot Dan Kata Kata
+Prefix In [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Line 97 Support Emot And Kata
 
-mess [`Di Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Baris 210
+mess [`Di Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Line 210
 
-Help Di [`Help.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/src/help.js)
+Help On [`Help.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/src/help.js)
 
-botname Di [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Baris 98
+botname at [`Main.js`](https://github.com/Zobin33/Anu-Wabot/blob/main/main.js) Line|Line 98
 
 ## Thanks To
 
